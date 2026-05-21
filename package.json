@@ -1,0 +1,22 @@
+{
+  "name": "Painting-Game-Unity",
+  "version": "1.0.0",
+  "displayName": "2D Painting Game",
+  "description": "Tam fonksiyonel 2D boyama oyunu",
+  "unity": "2022.3",
+  "unityRelease": "2022.3.0f1",
+  "keywords": [
+    "painting",
+    "drawing",
+    "game",
+    "2d",
+    "canvas",
+    "art",
+    "undo"
+  ],
+  "author": {
+    "name": "Painting Game Team",
+    "url": "https://github.com/20066328/painting-game-unity"
+  },
+  "type": "template"
+}
